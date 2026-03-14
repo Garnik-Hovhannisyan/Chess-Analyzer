@@ -1,0 +1,5 @@
+white king g1
+white queen a1
+black king h8
+black pawn h7
+black pawn g7
